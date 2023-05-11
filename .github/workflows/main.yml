@@ -1,0 +1,4 @@
+module "config" {
+  source  = "cloudposse/config/yaml"
+  version = "1.0.2"
+}
